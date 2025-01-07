@@ -2,12 +2,8 @@
 [module.hugoVersion]
 extended = true
 min = "0.87.0"
-<<<<<<< HEAD
-max = "0.150.0"
+max = "0.140.2"
 
 [params]
 # Custom CSS
 customCSS = ["css/custom.css"]
-=======
-max = "0.140.2"
->>>>>>> 3f33d6f38221881d0411af2f28916d1bf10e1193
